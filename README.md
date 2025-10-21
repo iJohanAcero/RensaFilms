@@ -60,6 +60,6 @@ El proyecto continúa en mejora constante, incorporando nuevas secciones y optim
 
 ## 🧠 Autor  
 
-Desarrollado por **Valentina Castellanos y Camilo Cáldon**, estudiante e ingeniero de sistemas apasionado por la programación, el diseño web y la producción audiovisual.  
+Desarrollado por **Valentina Castellanos y Camilo Cáldon**, estudiantes familiarizados con el diseño web y la producción audiovisual.  
 
 
