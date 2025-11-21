@@ -43,11 +43,13 @@ Rensa Films busca ser reconocida a nivel **nacional e internacional** como una e
 RensaFilms/
 │
 - ├── index.html # Página principal.
-- ├── /css # Hojas de estilo personalizadas.
-- ├── /js # Funciones y scripts del sitio.
-- ├── /img # Imágenes y recursos multimedia.
-- └── /assets # Fuentes, íconos y otros elementos gráficos.
-
+- ├── /assets #carpeta con recursos.
+- ├── /assets/css # hoja de estilos.
+- ├── /assets/img # Imágenes y recursos multimedia.
+- ├── /assets/js # animaciones y logica js.
+- ├── /assets/pdf # pdf descargables para la pagina.
+- ├── /view # diferentes vistas.
+- └── /public
 
 ---
 
